@@ -18,7 +18,7 @@ banner = """\033[96m
 |...........Deface Page Creator...........|
 +-----------------------------------------+
 |#Created By:     T3rr8us P4nk            |
-|#Contact: exploitcrew091@gmail.com       |
+|#Contact:   facebook/jamescarl.retiza.9  |
 |#Version:         2.0.11                 |
 |#Thanks To: Ph.Kury, Mr.C0dex, Clemente  |
 +=========================================+
